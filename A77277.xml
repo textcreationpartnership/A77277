@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplement to the Bibliotecha parochialis: or, The country curates library. Being an essay towards providing all the parishes of England, endow'd with not above ten pounds per annum, with a study of useful books, to enable the ministers thereof to instruct the people in all things necessary to salvation. / By Thomas Bray, D.D.</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77277</idno>
+            <idno type="STC">Wing B4299B</idno>
+            <idno type="STC">ESTC R233721</idno>
+            <idno type="EEBO-CITATION">45789175</idno>
+            <idno type="OCLC">ocm 45789175</idno>
+            <idno type="VID">172489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172489)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2634:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplement to the Bibliotecha parochialis: or, The country curates library. Being an essay towards providing all the parishes of England, endow'd with not above ten pounds per annum, with a study of useful books, to enable the ministers thereof to instruct the people in all things necessary to salvation. / By Thomas Bray, D.D.</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavel ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Theology --  Bibliography.</term>
+               <term>Christianity --  Bibliography.</term>
+               <term>Religion --  Bibliography.</term>
+               <term>Theological libraries.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172489:1" rendition="simple:additions"/>
+            <p>A SUPPLEMENT TO THE Bibliotheca Parochialis: OR, THE Country Curates Library. BEING AN ESSAY Towards providing all the Pariſhes of England, Endow'd with not above Ten Pounds per Annum, with a Study of Uſeful BOOKS, to enable the Miniſters thereof to Inſtruct the People in all things neceſſary to SALVATION.</p>
+            <p>By <hi>THOMAS BRAY,</hi> D.D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Clavel,</hi> at the <hi>Peacock</hi> in St. <hi>Paul</hi>'s Church-Yard, MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172489:2"/>
+            <pb n="1" facs="tcp:172489:2"/>
+            <head>To All who are Lovers of the Souls of thoſe for whom <hi>Chriſt</hi> Dyed.</head>
+            <p>THAT there are ſuch even in this Fro<g ref="char:EOLhyphen"/>zen Age and Country, and who being of a Publick Spirit, are not only Able but Willing, to do any thing they can be made ſenſible will be for a Common Good, is to be hop'd, or at leaſtwiſe to be wiſh'd. But that which is the chiefeſt of all Goods, the Cultivating the Minds and Manners of Men with Divine Know<g ref="char:EOLhyphen"/>ledge, and Chriſtian Vertues, ſeems not to be thought of, however not to be promoted by ſuch proper and immediate Methods as it eaſily might. Schools and Colleges (God be prais'd) we have ſufficient to ſend us out Labourers for the Vineyard; and from thence there come more than enough to ſupply all the Cures of the Kingdom. But alas, when they are come Abroad, there are ſcarce one Third of our <hi>Parochial Preferments</hi> which can enable our Clergy to furniſh themſelves with thoſe neceſſary helps, whereby they may be ſerviceable in any tole<g ref="char:EOLhyphen"/>rable meaſure to the good of Souls: And yet I find
+<pb n="2" facs="tcp:172489:3"/>few do caſt their Eyes upon this ſort of Charity, the raiſing of Libraries for this End and Purpoſe.</p>
+            <p>But whatever others may think of it, to me this ſeems to be a prime part of <hi>Chriſtian Charity;</hi> and the moſt wanted too in this Kingdom; And I doubt not but it will in like manner appear to all others, who will but conſider theſe following Parti<g ref="char:EOLhyphen"/>culars; namely,</p>
+            <p n="1">I. That as the Soul of Man is Infinitely more valuable than the Body, ſo that Charity which goes towards the Cultivating the Minds and Manners of Men with Divine Knowledge, and Chriſtian Graces, whereby they may be made <hi>meet to be Partakers of the Inheritance of the Saints in Light,</hi> muſt needs be of a far more exalted Nature, than that which Termi<g ref="char:EOLhyphen"/>nates only upon the welfare of this Mortal Life.</p>
+            <p n="2">II. That by an exact Scrutiny into the Value of our Livings, it will be found, that there are 200 Pariſhes, and upwards, in <hi>England, Wales,</hi> and the <hi>Iſle of Dan,</hi> Endow'd with not above Ten Pounds <hi>per Annum</hi> for the maintenance of a Miniſter, with which Proviſion it is utterly Impoſſible he ſhould furniſh himſelf with Books, whereby he might be able to give thoſe Souls, committed to his Charge, due Inſtructions in all the <hi>meer Neceſsaries</hi> to Salvation.</p>
+            <pb n="3" facs="tcp:172489:3"/>
+            <p n="3">III. It will therefore follow, that thoſe Perſons who abound in this World's Goods, and eſpecially whom Providence ſeems in a more peculiar manner to have deſign'd to be Publick Benefactors to Man<g ref="char:EOLhyphen"/>kind, by giving 'em good Eſtates, without Heirs to enjoy their Riches; it will therefore follow, I ſay, that ſuch will approve themſelves both to God and Man, moſt Divinely Charitable, who ſhall be<g ref="char:EOLhyphen"/>ſtow ſome of the forementioned Libraries for the perpetual Uſe of the Miniſters of ſuch Places, in or<g ref="char:EOLhyphen"/>der to Capacitate them to ſave the Souls of Men.</p>
+            <p n="4">IV. As by this means ſuch Charitable Perſons will become at a ſecond hand, and in an Inferior degree, as it were, Apoſtles to the World, by Preach<g ref="char:EOLhyphen"/>ing through the Mouths of theſe Miniſters to the People, and will have a ſhare in all the Converſions which ſhall be made in ſuch places to all ſucceeding Generations; ſo to induce 'em thereunto they need no more than to meditate upon thoſe words of the Prophet, <hi>Dan.</hi> 12.3. <hi>They that are wiſe,</hi> or, Teach<g ref="char:EOLhyphen"/>ers, as it is in the Original, <hi>ſhall ſhine as the Brightneſs of the Firmament, and they that turn many to Righteouſneſs, as the Stars for ever and ever.</hi>
+            </p>
+            <p>I ſhall not enlarge on theſe Particulars, I think they carry their own Evidence along with 'em, all of 'em, except the ſecond, and a little Inſight into the preſent State of the Clergy, will make that ap<g ref="char:EOLhyphen"/>pear to be matter of Fact. And the reſt need no Il<g ref="char:EOLhyphen"/>luſtration.
+<pb n="4" facs="tcp:172489:4"/>And now if the Caſe of the Church in this Nation be really ſo, I conjure all thoſe who love to ſee the <hi>Image of God,</hi> Imprinted upon the Souls of Men, to furniſh, as our Plantations abroad, ſo our poor Vicaridges at home, with what may enable us to erace that Ignorance, and Barbarity, thoſe Brutiſh Man<g ref="char:EOLhyphen"/>ners, and Paganiſh Vices and Cuſtoms, which do to this day ſo hideouſly deform the greateſt part of Man<g ref="char:EOLhyphen"/>kind. We cannot now work Miracles, nor is Inſpi<g ref="char:EOLhyphen"/>ration any part of our Talent; but we are left to the ordinary Means to fit our ſelves for this great Work of Converting the World; namely, the com<g ref="char:EOLhyphen"/>mon meaſures of God's Holy Spirit, accompanying our hard Study. But how can they Study who have not Books to read? Thoſe who were never pinch'd with narrow Preferments may not be ſenſible of this want, becauſe they have been able to furniſh themſelves ſufficiently with Books. But thoſe whoſe Incoms from the Church never enabl'd 'em to purchaſe the fourth part of the Authors they have occaſion to peruſe, in order to diſcharge the ordina<g ref="char:EOLhyphen"/>ry Duties of their Miniſtry, can ſpeak feelingly in this matter.</p>
+            <p>I know there is nothing a more a common Jeſt than the Poverty, and Ignorance of the Poor Clergy in <hi>Wales,</hi> and the Northern parts of this Kingdom; but this Jeſt in my Opinion, is the Nations ſhame, who provide not better for 'em. And provide 'em
+<pb n="5" facs="tcp:172489:4"/>but with Books, and they would be neither Ignorant, Poor, nor Scandalous; not <hi>Ignorant,</hi> for Books do by an immediate Cauſality remove that Imputation; not ſo very <hi>Poor</hi> as now, for I have known Good Men, and Lovers of Learning kept under hatches all their life time, chiefly by their being Bookiſhly given, and in<g ref="char:EOLhyphen"/>debted to Book-ſellers; nor <hi>Scandalous,</hi> for I know that many whoſe Immoralities are ſaid to be a Reproach to their Function, who yet in all probability had ne<g ref="char:EOLhyphen"/>ver become ſuch Men, if they had been poſſeſs'd of Good Books, wherewith they might have employ'd their time in reading; for want of which it is, that ſome perhaps may have ſought their Diverſion in Ale-houſes, and in a Santring way of Life.</p>
+            <p>But alaſs! The want of Books is not of the tenth part of that ill Conſequence, as it affects the Mini<g ref="char:EOLhyphen"/>ſter, to what it is, as it affects the People. If it could only be conſider'd as affecting the former, it would be but a Private, and <hi>Single Misfortune;</hi> but ſince it cannot but extreamly much affect the latter, it is a <hi>Publick Calamity.</hi> For why? <hi>Where the Prieſts Lips cannot preſerve, cannot procure Knowledge, how ſhould the People ſeek the Law at his Mouth?</hi> And alas where Ignorance, and Darkneſs Univerſally Reign in any part of the World, and the People are deſti<g ref="char:EOLhyphen"/>tute of Divine Knowledge, innumerable are the Mi<g ref="char:EOLhyphen"/>ſeries, and dreadful are the Sins, which Reign in ſuch places; Between Superſtition, and Atheiſm ſuch Peo<g ref="char:EOLhyphen"/>ple
+<pb n="6" facs="tcp:172489:5"/>are equally divided. Fornications, and Adulte<g ref="char:EOLhyphen"/>ries are accounted but the common Infirmities of their great ones, and Perjuries in the Courts of Judica<g ref="char:EOLhyphen"/>ture are<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part of the Services they exact of their In<g ref="char:EOLhyphen"/>feriors: And to be Sons of Violence is common to all; for as was ſeen in our former Ages of Igno<g ref="char:EOLhyphen"/>rance in this Nation, and is ſtill the Conſtitution of Barbarous Countries elſewhere, the Great Ones with their Followers are no better than Publick Rob<g ref="char:EOLhyphen"/>bers, ever and anon making Ravages upon ſome Neghbouring Petty Lord, and his Vaſſals, and all of 'em a ſort of tollerated Banditty continually Prey<g ref="char:EOLhyphen"/>ing, and being Prey'd upon by each other. Such, and many others are the Violations of Juſt and Right, of God's Laws, yea and of the very Laws of Na<g ref="char:EOLhyphen"/>ture, which ariſe from this bitter Fountain of Igno<g ref="char:EOLhyphen"/>rance of the true Nature of God, and of Religion; whereas on the other ſide, unſpeakable are the Be<g ref="char:EOLhyphen"/>nefits conſiſting in Juſtice, Mercy and Peace; in Piety towards God, and well ordered Affections as to our ſelves, where, by means of an Intelligent, Pious, and Induſtrious Clergy (thoſe great <hi>Bene<g ref="char:EOLhyphen"/>factors</hi> to Mankind) the People are throughly en<g ref="char:EOLhyphen"/>lightned with the Knowledge of God, and the true Nature of <hi>Pure and Undefiled Religion,</hi> as it is in <hi>James</hi> 1.27.</p>
+            <pb n="7" facs="tcp:172489:5"/>
+            <p>I ſay, of <hi>Pure and Undefiled Religion,</hi> a Religion that is unmixt with the Alloys of meer Syſtematical, and Precarious Tenets on the one hand, or Superſti<g ref="char:EOLhyphen"/>tious, and Idolatrous Uſages on the other. And ſuch is the Conſtitution, as near as can be, of this little Catalogue, which follows. It is Compos'd of ſuch Pious Mens Works, who have Imbib'd their Principles from our Church Catechiſm, and in writ<g ref="char:EOLhyphen"/>ing conſonantly to that, I am ſure they cannot Err either to the Right, or to the Left in Religion. And becauſe I would rather deſire to ſee ſuch Libraries fixt in thoſe Poor places for which I am ſo Zealous, than any one Good I can wiſh for the Church, I have made up the Catalogue of ſuch Books for the moſt part, as have their Authors now living, or are at leaſtwiſe moſt eaſily acquirable, being Common, and in our Engliſh Tongue.</p>
+            <p>And ſince I have aſſum'd to my ſelf to be an Ad<g ref="char:EOLhyphen"/>vocate in the behalf of my Poor Brethren, and their reſpective Flocks; let me intreat ſuch of our <hi>Digni<g ref="char:EOLhyphen"/>fy'd Authors,</hi> who have written ſo Piouſly, and De<g ref="char:EOLhyphen"/>votionally, to exemplifie the ſincerity of that Spirit, which does appear in their Writings, by beſtowing of their Books to the ptrpoſes for which I here Soli<g ref="char:EOLhyphen"/>cite 'em. And alſo I do earneſtly requeſt our Richer Citizens, who by many, and repeated Providential Hitts have been advanced to great Fortunes; and do therefore peculiarly owe grateful Returns to God,
+<pb n="8" facs="tcp:172489:6"/>to think upon this of Beſtowing Little Libraries Inſtructive in the Eſſentials of Chriſtianity, as the moſt Natural, and Adapted way whereby they can teſtifie ſuch their Gratitude: But above all, I muſt deſire thoſe, <q>Whom Providence, as I ſaid before, ſeems in a more peculiar manner to have deſign'd to be Publick Benefactors to Mankind, by giving 'em good Eſtates without Heirs to enjoy their Riches;</q> particularly I deſire them to conſider this matter, and that by this means they would make to themſelves <hi>Friends in Heaven of the</hi> Mammon <hi>of Un<g ref="char:EOLhyphen"/>righteouſneſs,</hi> rather than like <hi>David</hi>'s Fool, <hi>heap to themſelves Riches, not knowing who ſhall gather them.</hi> And that inſtead of being fooliſhly Solicitous to find out ſome one, from they might <hi>call their Lands after own Name</hi> (fondly thinking that by this means, <hi>their Houſes ſhall continue for ever, and their Dwelling-places to all Generations</hi>) that they would rather by ſuch Charity to the Souls of Men, as is here propos'd, provide that <hi>their Names may be written in the Book of Life,</hi> thence never to be obliterated. And indeed I muſt not paſs by any of thoſe, whoſe ample For<g ref="char:EOLhyphen"/>tunes ſhall enable 'em, or Pious Souls ſhall encline 'em to imitate their Great Maſter in doing good, without minding 'em of the Excellency and Uſe<g ref="char:EOLhyphen"/>fulneſs of this ſort of Charity.</p>
+            <p>Now our Ancient <hi>Founders of Colleges,</hi> thoſe Brave, Large, and Elevated Souls! General<g ref="char:EOLhyphen"/>ly expreſs'd their peculiar Tenderneſs to their Native
+<pb n="9" facs="tcp:172489:6"/>Country, or to thoſe places of abode, to which they owed moſt, by qualifying Perſons of ſuch Dio<g ref="char:EOLhyphen"/>ceſſes, or Counties reſpectively, for the benefit of their Foundations. And the ſame Method of Cha<g ref="char:EOLhyphen"/>rity I ſhall here adventure to recommend to thoſe, I do now Addreſs. Let ſuch whoſe Conditions ſhall enable 'em to beſtow one, two, or more of theſe <hi>Diminutive Libraries,</hi> caſt their Pitying Eyes upon thoſe <hi>Ten Pound Curacies,</hi> whether Pariſhes or Chap<g ref="char:EOLhyphen"/>pelries, near unto 'em, and extend their Benefacti<g ref="char:EOLhyphen"/>ons in this way to as many of 'em, as their Circum<g ref="char:EOLhyphen"/>ſtances ſhall enable 'em. But as for thoſe whoſe Worldly Acquiſitions are very great, and can render themſelves a Bleſſing to whole Provinces; let them look towards <hi>Wales,</hi> the <hi>Iſle of Man,</hi> and other Northern parts of this Kingdom. And in<g ref="char:EOLhyphen"/>deed it is a matter of ſad Conſideration to ſee how Barbarous, and Ignorant thoſe places now mention<g ref="char:EOLhyphen"/>ed, do ſtill remain, notwithſtanding that the Goſpel ſhines in other parts of the Nation with a Meridian Brightneſs; the reaſon is the ſmall Proviſion made for its Encouragement in thoſe Parts, whereas in all reaſon the greateſt Encouragement ought to be given there, where Nature is moſt unkind, and uninviting, to Ballance the Inconveniences thereof. And I am ve<g ref="char:EOLhyphen"/>rily perſuaded, that if Books were fixt in thoſe parts, as ungrateful as is the Climate, Men of Worth would follow them, it being natural for Perſons
+<pb n="10" facs="tcp:172489:7"/>who are Lovers of Knowledge and Religion, to value all Places alike where Religion and Learning do flouriſh.</p>
+            <p>Nor let any be diſcouraged from beſtowing theſe Books, out of fear they ſhould be Imbezel'd, Loſt, or Converted to a Private Uſe, for there may be ſufficient Care taken to ſecure them through all the Succeſſion of Miniſters in ſuch Places; 1ſt. By Lettering 'em on the Covers to what Pariſh they be<g ref="char:EOLhyphen"/>long. 2dly, By making Regiſters of 'em to be left with the Biſhop, and his Arch-Deacons, in whoſe Juriſdictions ſuch Places ſhall happen to be. And 3dly, By the Yearly Viſitation of the Arch-Deacon, or of ſuch of the Clergy whom he ſhall Depute to ſee that they be not Imbezel'd, Loſt, or Spoil'd. After all theſe Precautions, there ſeems no place for the leaſt fear they ſhould be ever Loſt. But if they ſhould be any wiſe Alienated, by the meer Letter<g ref="char:EOLhyphen"/>ing of them, they may as eaſily be diſcovered, and own'd, as any Living Creature by its Ear-mark.</p>
+            <p>And now I only deſire ſuch to whom I Apply, to conſider, how Comfortable, how Joyful it will be to thoſe Pious and Charitable Perſons we have al<g ref="char:EOLhyphen"/>ready found upon this occaſion; and to thoſe who ſhall add themſelves to the number; I deſire ſuch to conſider what a Jubile it will be to them, when the Judge of all the World ſhall ſit upon his Auguſt Tribunal, ſurrounded with Angels; and when the
+<pb n="11" facs="tcp:172489:7"/>Regiſter of all Mens Actions ſhall be open'd, to hear the Record of this their Love to God, and Pi<g ref="char:EOLhyphen"/>ty to the Souls of Men publickly read, Angels and Saints applauding them.</p>
+            <p>And indeed if any are Piouſly Ambitious of the Higheſt Stations in the Kingdom of Glory, of be<g ref="char:EOLhyphen"/>coming Courtiers, and Favourites to King of kings; it is Profeſſedly and Sincerely my Oppinion, that next to what the Apoſtles did to Evangelize the World.; Such Charities as theſe, which have the moſt Immediate, and Direct Tendency to Convert Mankind to God, will be the moſt ready way to Recommend, and Qualifie a Pious Soul for ſuch a Dignity: And I think I have the Authority of an Infallible Teſtimony for what I ſay, for which rea<g ref="char:EOLhyphen"/>ſon I muſt again repeat it, <hi>They that are wiſe,</hi> or Teachers, <hi>ſhall ſhine as the Brightneſs of the Firma<g ref="char:EOLhyphen"/>ment, and they that turn many to Righteouſneſs, as the Stars for ever and ever.</hi>
+            </p>
+         </div>
+         <div type="recommended_reading">
+            <pb facs="tcp:172489:8"/>
+            <pb facs="tcp:172489:8"/>
+            <head>A <hi>Catalogue of Books</hi> Fitted to the Condition and Circumſtances OF A Country Curate; AND Diſpos'd into that Order, in which, if an Initiate in Theology, he may moſt Profitably read them.</head>
+            <p n="1">I. <hi>FIrſt,</hi> For the better underſtanding of the Text,
+<list>
+                  <item>Heideggeri Enchiridion Biblicum, Analyſi Generali ſingu<g ref="char:EOLhyphen"/>lorum Vet. &amp; N. Teſt. Librorum, &amp; Capitum Argumen<g ref="char:EOLhyphen"/>to, unicè inſerviens. 8o.</item>
+                  <item>N. <hi>Hic Liber in quotidianis Sacrarum Scripturarum Lectionibus, ut mibi videtur, apprimè utilis.</hi>
+                  </item>
+                  <pb n="14" facs="tcp:172489:9"/>
+                  <item>Biſhop <hi>Patrick</hi>'s Paraphraſes on <hi>Job, Pſalms, Proverbs,</hi> and <hi>Eccleſiaſtes,</hi> 5 Vol. 8o.</item>
+                  <item>Dr. <hi>Hammond</hi>'s Annotations on the New Teſtament, <hi>Fol.</hi>
+                  </item>
+                  <item>
+                     <hi>Oxford</hi> Paraphraſe on St. <hi>Paul</hi>'s Epiſtles. 8o.</item>
+                  <item>Biſhop <hi>Patrick</hi>'s Search the Scriptures. A Treatiſe ſhewing that all Chriſtians ought to read the Holy Books, with Directions to them therein.</item>
+                  <item>The Word of God the beſt Guide to all Perſons. Being a Collection of Scripture Texts, ſhewing ſuch things as are neceſſary for every Chriſtians Knowledge and Practice, 8o.</item>
+               </list>
+            </p>
+            <p n="2">II. For a General Catechetical Body.
+<list>
+                  <item>Firſt, <hi>By way of Comment upon our Articles and Church Catechiſm.</hi>
+                     <list>
+                        <item>Dris. <hi>Ellis</hi> 39 Articuli.</item>
+                        <item>Biſhop <hi>William</hi>'s Brief Expoſition of the Church Cate<g ref="char:EOLhyphen"/>chiſm, with Proofs from Scripture, 8<hi rend="sup">o</hi>. Or,</item>
+                        <item>Dr. <hi>Iſham</hi>'s Scriptural Catechiſm, 8<hi rend="sup">o</hi>.</item>
+                        <item>Dr. <hi>Barrow</hi> on the Creed, Ten Commandments, and Doctrine of the Sacraments, 8<hi rend="sup">o</hi>.</item>
+                        <item>Mr. <hi>Rawlet</hi> on the Creed, Ten Commandments, and Lord's-Prayer, 8<hi rend="sup">o</hi>.</item>
+                     </list>
+                  </item>
+                  <item>Secondly, <hi>In a more voluntary and Arbitrary Me<g ref="char:EOLhyphen"/>thod.</hi>
+                     <list>
+                        <item>Dr. <hi>Hammond</hi>'s Practical Catechiſm, 8o.</item>
+                        <item>Sir <hi>Matthew Hale</hi>'s Knowledge of God and our ſelves, 8<hi rend="sup">o</hi>.</item>
+                        <pb n="15" facs="tcp:172489:9"/>
+                        <item>
+                           <hi>Gouge</hi>'s Explanation of the Principles of the Chriſtian Religion, with Practical Applications to each Head, 8<hi rend="sup">o</hi>.</item>
+                        <item>Dr. <hi>Scot</hi>'s Works, 4 <hi>Vol.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p n="3">III. Upon the Covenant of Grace, and Baptiſmal Covenant in General.
+<list>
+                  <item>Mr. <hi>Allen</hi>'s Diſcourſe on the two Covenants, 8<hi rend="sup">o</hi>.</item>
+                  <item>Catechetical Lectures, <hi>Firſt Vol. Fol.</hi>
+                  </item>
+                  <item>Mr. <hi>Rawlet</hi> on Sacramental Covenanting with God.</item>
+               </list>
+            </p>
+            <p n="4">IV. Upon the Particular Articles of the Covenant of Grace, both on God's part, and on Man's.
+<list>
+                  <item>Firſt, <hi>The Mercies on God's Part.</hi>
+                     <list>
+                        <item>1. Juſtification, or Pardon of Sin.
+<list>
+                              <item>Mr. <hi>W. Allen</hi> on Juſtification.</item>
+                              <item>Dr. <hi>Bates</hi>'s Sermons on Forgiveneſs, 8o.</item>
+                           </list>
+                        </item>
+                        <item>2. On Divine Aſſiſtance.
+<list>
+                              <item>Mr. <hi>Allen</hi> on Divine Aſſiſtance.</item>
+                           </list>
+                        </item>
+                        <item>3. Upon Everlaſting Life and Happineſs.
+<list>
+                              <item>Biſhop <hi>Taylor</hi>'s Contemplations on the State of Man, 8<hi rend="sup">o</hi>.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <pb n="16" facs="tcp:172489:10"/>
+                  <item>Secondly, <hi>The Conditions to be perform'd on our part.</hi>
+                     <list>
+                        <item>1. The whole body of Chriſtian Faith, or ſome of its Great Articles.
+<list>
+                              <item>Biſhop <hi>Pearſon</hi> on the Creed, <hi>Fol.</hi>
+                              </item>
+                              <item>Mr. <hi>Kettlewel</hi>'s Chriſtian Believer, 8<hi rend="sup">o</hi>.</item>
+                              <item>Biſhop <hi>Ken</hi>'s Expoſition of the Creed.</item>
+                              <item>Dr. <hi>Barrow</hi>'s Diſcourſe on the Trinity. Or,</item>
+                              <item>Biſhop <hi>Stilling fleet</hi> on the Doctrine of the Holy Tri<g ref="char:EOLhyphen"/>nity.</item>
+                              <item>— On the Satisfaction of Chriſt.</item>
+                              <item>Dr. <hi>Bates</hi>'s Harmony of Divine Attributes in the Great Buſineſs of Man's Salvation, 8<hi rend="sup">o</hi>.</item>
+                              <item>Dr. <hi>Sherlock</hi> on Death, 8o.</item>
+                              <item>— On Judgment, 8o.</item>
+                           </list>
+                        </item>
+                        <item>2. On the Commandments and Chriſtian Du<g ref="char:EOLhyphen"/>ties.
+<list>
+                              <item>Biſhop <hi>Hopkins</hi> on the Commandments, 4<hi rend="sup">o</hi>.</item>
+                              <item>Mr. <hi>Rawlet</hi>'s Chriſtian Monitor. 8<hi rend="sup">o</hi>.</item>
+                              <item>Whole Duty of Man, 8o.</item>
+                              <item>Mr. <hi>Kettlewel</hi>'s meaſures of Chriſtian Obedience. 8<hi rend="sup">o</hi>.</item>
+                           </list>
+                        </item>
+                        <item>3. On Repentance.
+<list>
+                              <item>Dr. <hi>Ingelo</hi> on Repentance, 8<hi rend="sup">o</hi>.</item>
+                              <item>Dr. <hi>Goodman</hi>'s Penitent-Pardon'd, 8<hi rend="sup">o</hi>.</item>
+                              <item>Mr. <hi>Ellis</hi> of the Neceſſity of ſerious Conſideration, and ſpeedy Repentance, as the only way to be ſafe both Living and Dying, 8<hi rend="sup">o</hi>.</item>
+                              <item>Biſhop <hi>Patrick</hi> on Repentance, and the Lent-Faſt, 8o.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <pb n="17" facs="tcp:172489:10"/>
+            <p n="5">V. Upon the Means of performing the Covenant, <hi>viz.</hi> Prayer, and the Sacrament.
+<list>
+                  <item>Firſt, <hi>Upon Prayer.</hi>
+                     <list>
+                        <item>Biſhop <hi>Hopkins</hi> upon the Lord's-Prayer, 4o.</item>
+                        <item>Biſhop <hi>Patrick</hi>'s Diſcourſe on Prayer, 12o.</item>
+                        <item>— Devout Chriſtian, 12o.</item>
+                        <item>Dr. <hi>Pelling</hi>'s Diſcourſe on Prayer, 8o.</item>
+                        <item>Dr. <hi>Comber</hi>'s Diſcourſes on the whole Common-Prayer, 8o.</item>
+                     </list>
+                  </item>
+                  <item>Secondly, <hi>On the Sacraments.</hi>
+                     <list>
+                        <item>Biſhop <hi>Patrick</hi>'s <hi>Aqua genitalis,</hi> at the end of his <hi>Menſa myſtica,</hi> with the <hi>Menſa mystica,</hi> 8o.</item>
+                        <item>— Chriſtian Sacrifice, 12o.</item>
+                        <item>— Of frequent Communion, 8o.</item>
+                        <item>Mr. <hi>Kettlewel</hi> on the Sacrament, 8o.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p n="6">VI. Sermons.
+<list>
+                  <item>Arch-Biſhop <hi>Tillotſon</hi>'s Sermons, <hi>Fol.</hi>
+                  </item>
+                  <item>— His Poſthumous Sermons, 4 <hi>Vol.</hi> 8o.</item>
+                  <item>
+                     <hi>Dorrington</hi>'s Sermons, 2 <hi>Vol.</hi> 8o.</item>
+                  <item>
+                     <hi>Kettlewel</hi>'s Poſthumous Diſcourſes, 8o.</item>
+                  <item>Sir <hi>Matthew Hales</hi> Contemplations, 3 <hi>Parts</hi> 8o.</item>
+               </list>
+            </p>
+            <p n="7">VII. Directions and helps in viſiting the Sick.
+<list>
+                  <item>Dr. <hi>Wake</hi> upon Death, 12o.</item>
+                  <item>
+                     <hi>Kettlewel</hi>'s Companion to the Penitent, 12o.</item>
+                  <item>— Death made comfortable, 12o.</item>
+               </list>
+            </p>
+            <pb n="18" facs="tcp:172489:11"/>
+            <p n="8">VIII. Miniſterial Inſtructions.
+<list>
+                  <item>
+                     <hi>Herbert</hi>'s Country Parſon, 12o.</item>
+                  <item>Biſhop <hi>Burnet</hi>'s Paſtoral Care, 8o.</item>
+                  <item>
+                     <hi>Bibliotheca Parochialis,</hi> 4o.</item>
+               </list>
+            </p>
+            <p n="9">IX. Preſervatives.
+<list>
+                  <item>Firſt, <hi>Of our Church-Communion againſt Diſſenters.</hi>
+                  </item>
+                  <item>Mr. <hi>W. Allen</hi>'s Works.</item>
+                  <item>Biſhop <hi>King</hi>'s Inventions of Men in the Worſhip of God, 8o.</item>
+                  <item>Secondly, <hi>Againſt the vulgar Deiſm, and the manifold, and deſperate Hereſies of the Quakers.</hi>
+                  </item>
+                  <item>Snake in the Graſs, 8o.</item>
+                  <item>Satan Diſrob'd, 4o.</item>
+               </list>
+            </p>
+            <p n="10">X. Hiſtory.
+<list>
+                  <item>
+                     <hi>Euſebius</hi>'s Eccleſiaſtical Hiſtory, Tranſlated by Dr. <hi>Shorten,</hi> Or,</item>
+                  <item>
+                     <hi>Ellies Du Pin</hi>'s Eccleſiaſtical Hiſtory, 3 <hi>Vol. Fol.</hi> Or,</item>
+                  <item>Biſhop <hi>Burnet</hi>'s Abſtract of the Hiſtory of the Reformation, 8o.</item>
+               </list>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
